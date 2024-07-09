@@ -49,4 +49,6 @@ By the end of this activity, you will learn how to test the responsiveness of a 
 ## Summary
 Practicing responsiveness using Flexbox and Chrome Developer Tools is crucial for creating modern, user-friendly websites. By regularly testing your designs on various devices, you will ensure that all users, regardless of their device, have a positive experience on your site.
 
+There is no official 'solution' to this activity since mastering this skill is independent of your code. Your goal is simply to test that which already exists.
+
 Good luck, and happy coding!
